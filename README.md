@@ -2,7 +2,7 @@
 
 Aplicativo de clima usando ReactJS e a Weather API
 
-Link do projeto: 
+Link do projeto: https://weather-app-kappa-bay.vercel.app/
 
 ## Para começar :arrow_forward:
 
