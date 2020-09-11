@@ -4,10 +4,9 @@ import Form from "./app_component/form.component";
 import Weather from "./app_component/weather.component";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-// git project https://github.com/erikflowers/weather-icons
 import "weather-icons/css/weather-icons.css";
 
-const Api_Key = "429736441cf3572838aa10530929f7cd";
+const Api_Key = "b64d06d11a0bd3b3155948f96f9dc7c5";
 
 class App extends React.Component {
   constructor() {
