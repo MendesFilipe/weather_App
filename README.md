@@ -45,6 +45,6 @@ Para compilar a aplicação basta seguir os dois passos abaixo:
 - [Jest](https://jestjs.io/) 
 - [ESLint](https://eslint.org/) 
 
-## Licença :page_with_curl:
+## Licença ⚖
 
 Esse projeto possui a licença **MIT**.
